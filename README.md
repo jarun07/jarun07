@@ -30,7 +30,7 @@ I'm passionate about turning data into meaningful insights and building AI-power
 ### 🌐 Connect with Me
 
 * 🐙 GitHub: **https://github.com/jarun07**
-* 💼 LinkedIn: **Add your LinkedIn URL**
+* 💼 LinkedIn: **inkedin.com/in/arun-kumar-968714223/**
 * 🐦 X: **https://x.com/ArunKumar846**
 * 📷 Instagram: **https://www.instagram.com/arun.jallepalli/**
 
