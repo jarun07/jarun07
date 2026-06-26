@@ -1,39 +1,28 @@
 # Hi 👋, I'm Arun Jallepalli
 
-### 🚀 Data Analyst | Data Scientist | AI & ML Engineer | Data Engineer |
+🎓 M.Sc. Data Science Graduate
+💻 Data Analyst | AI & ML Enthusiast
 
-I'm passionate about turning data into meaningful insights and building AI-powered applications. I enjoy working with Python, SQL, Power BI, Machine Learning, and exploring Generative AI and Multi-Agent Systems.
+### 🚀 Skills
 
-### 💻 Tech Stack
+* Python
+* SQL
+* Power BI
+* PostgreSQL
+* Machine Learning
+* Git & GitHub
 
-* 🐍 Python
-* 🗄️ SQL & PostgreSQL
-* 📊 Power BI
-* 🤖 Machine Learning
-* 📈 Data Analysis
-* 🌐 Git & GitHub
+### 📌 Projects
 
-### 📂 Featured Projects
-
-* 📈 Stock Market Fundamental Analysis
-* 🧠 Personality Prediction using Machine Learning
-* 📊 Interactive Power BI Dashboards
-* 🤖 Friday AI Assistant *(Currently Building)*
-
-### 🌱 Currently Learning
-
-* Multi-Agent AI
-* Large Language Models (LLMs)
-* Data Engineering
-* Generative AI
+* 📊 Stock Market Fundamental Analysis
+* 🧠 Personality Prediction
+* 🤖 Friday AI Assistant *(In Progress)*
 
 ### 🌐 Connect with Me
 
-* 🐙 GitHub: **https://github.com/jarun07**
-* 💼 LinkedIn: **inkedin.com/in/arun-kumar-968714223/**
-* 🐦 X: **https://x.com/ArunKumar846**
-* 📷 Instagram: **https://www.instagram.com/arun.jallepalli/**
+* 💼 LinkedIn: https://www.linkedin.com/in/arun-kumar-968714223/
+* 🐙 GitHub: https://github.com/jarun07
+* 🐦 X: https://x.com/ArunKumar846
+* 📷 Instagram: https://www.instagram.com/arun.jallepalli/
 
----
-
-⭐ *"Learning, Building, and Growing Every Day."*
+⭐ *Always learning, always building.*
