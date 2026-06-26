@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Arun Jallepalli
 
-<!--
-**jarun07/jarun07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Analyst | Data Scientist | AI & ML Engineer | Data Engineer |
 
-Here are some ideas to get you started:
+I'm passionate about turning data into meaningful insights and building AI-powered applications. I enjoy working with Python, SQL, Power BI, Machine Learning, and exploring Generative AI and Multi-Agent Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+* 🐍 Python
+* 🗄️ SQL & PostgreSQL
+* 📊 Power BI
+* 🤖 Machine Learning
+* 📈 Data Analysis
+* 🌐 Git & GitHub
+
+### 📂 Featured Projects
+
+* 📈 Stock Market Fundamental Analysis
+* 🧠 Personality Prediction using Machine Learning
+* 📊 Interactive Power BI Dashboards
+* 🤖 Friday AI Assistant *(Currently Building)*
+
+### 🌱 Currently Learning
+
+* Multi-Agent AI
+* Large Language Models (LLMs)
+* Data Engineering
+* Generative AI
+
+### 🌐 Connect with Me
+
+* 🐙 GitHub: **https://github.com/jarun07**
+* 💼 LinkedIn: **Add your LinkedIn URL**
+* 🐦 X: **https://x.com/ArunKumar846**
+* 📷 Instagram: **https://www.instagram.com/arun.jallepalli/**
+
+---
+
+⭐ *"Learning, Building, and Growing Every Day."*
